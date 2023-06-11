@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168305160823-0r5kqdtttn6ku5hqhac117lc9f4ogvrh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168305160823-0r5kqdtttn6ku5hqhac117lc9f4ogvrh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbn96RnqoExEX7vfPolHR5CrjfeNGLV18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168305160823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ranadawar.dehomedealing</string>
+	<key>PROJECT_ID</key>
+	<string>housingfyp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>housingfyp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168305160823:ios:df753fbe452f9c90d88c72</string>
+	<key>DATABASE_URL</key>
+	<string>https://housingfyp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

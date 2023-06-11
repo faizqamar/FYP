@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168305160823",
+    "firebase_url": "https://housingfyp-default-rtdb.firebaseio.com",
+    "project_id": "housingfyp",
+    "storage_bucket": "housingfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168305160823:android:1d71d4c684e1b067d88c72",
+        "android_client_info": {
+          "package_name": "com.ranadawar.dehomedealing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168305160823-jd93amn5r931qgvr19v6k3cd7n5fmo7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkPKY9o1rX6Zf3FdJe3Ti5qBxJ71KU4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168305160823-jd93amn5r931qgvr19v6k3cd7n5fmo7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168305160823-kbu3420u5f8ajgdco08tk2n8tb1j3nn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.housingfyp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
